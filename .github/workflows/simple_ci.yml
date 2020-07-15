@@ -28,5 +28,5 @@ jobs:
         sudo apt-get install junit4
         cd src
         javac -cp /usr/share/java/junit4.jar *.java
-        java -cp /usr/share/java/junit4.jar:. org.junit.runner.JUnitCore *
+        java -cp /usr/share/java/junit4.jar:. org.junit.runner.JUnitCore DataDrivenCalcTest_Add
         
