@@ -11,6 +11,6 @@ public class Calc {
 
     static public int multiply (int a, int b)
     {
-        return 0;
+        return a * b;
     }
 }
