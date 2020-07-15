@@ -1,3 +1,5 @@
+![CI](https://github.com/dinhanhx/simple-ci-for-java/workflows/CI/badge.svg)
+
 # Simple ci for java
 
 Note: ci = continuous integration 
