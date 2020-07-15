@@ -15,3 +15,7 @@ Full name: Vu Dinh Anh
 Student ID: BI9-037
 
 Email: anhvd.bi9037@st.usth.edu.vn
+
+# Tips:
+
+- All Test Results files are html file, hence please use [this tool](https://htmlpreview.github.io/) to view those without cloning this repos.
