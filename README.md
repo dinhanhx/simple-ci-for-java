@@ -18,4 +18,4 @@ Email: anhvd.bi9037@st.usth.edu.vn
 
 # Tips:
 
-- All Test Results files are html file, hence please use [this tool](https://htmlpreview.github.io/) to view those without cloning this repos.
+- All Test Results files (in log folder) are html files, hence please use [this tool](https://htmlpreview.github.io/) to view those without cloning this repos.
