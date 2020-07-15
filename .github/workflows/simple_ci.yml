@@ -26,6 +26,7 @@ jobs:
     - name: Run Data Driven test code
       run: |
         sudo apt-get install junit4
-        javac -cp /usr/share/java/junit4.jar src/*.java
-        java -cp /usr/share/java/junit4.jar:. org.junit.runner.JUnitCore src.DataDrivenCalcTest_Add
+        cd src
+        javac -cp /usr/share/java/junit4.jar *.java
+        java -cp /usr/share/java/junit4.jar:. org.junit.runner.JUnitCore *
         
