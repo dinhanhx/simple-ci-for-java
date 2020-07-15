@@ -29,7 +29,7 @@ jobs:
         cd src
         javac -cp /usr/share/java/junit4.jar *.java
         java -cp /usr/share/java/junit4.jar:. org.junit.runner.JUnitCore DataDrivenCalcTest_Add
-        java -cp /usr/share/java/junit4.jar:. org.junit.runner.JUnitCore DataDrivenCalcTest_Substract
+        java -cp /usr/share/java/junit4.jar:. org.junit.runner.JUnitCore DataDrivenCalcTest_Subtract
         java -cp /usr/share/java/junit4.jar:. org.junit.runner.JUnitCore DataDrivenCalcTest_Multiplication
         java -cp /usr/share/java/junit4.jar:. org.junit.runner.JUnitCore DataDrivenCalcTest_Division
         
