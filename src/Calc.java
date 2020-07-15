@@ -13,4 +13,9 @@ public class Calc {
     {
         return a * b;
     }
+
+    static public float divide (int a, int b)
+    {
+        return 0.0f;
+    }
 }
