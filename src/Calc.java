@@ -16,6 +16,6 @@ public class Calc {
 
     static public float divide (int a, int b)
     {
-        return 0.0f;
+        return (float) a/b;
     }
 }
