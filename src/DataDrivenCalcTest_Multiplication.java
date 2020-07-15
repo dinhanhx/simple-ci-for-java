@@ -25,6 +25,6 @@ public class DataDrivenCalcTest_Multiplication {
     @Test
     public void multiplicationTest()
     {
-        assertTrue ("Subtraction Test", multiplication == Calc.multiply (a,b));
+        assertTrue ("Multiplication Test", multiplication == Calc.multiply (a,b));
     }
 }
